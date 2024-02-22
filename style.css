@@ -387,7 +387,7 @@ body {
 @media (max-width: 991px) {
   .about .about-content .image {
     margin: 0 auto 60px;
-  }
+  } 
 }
 
 .about .about-content .image::before {
