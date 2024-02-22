@@ -55,7 +55,7 @@ body {
   margin-top: 60px;
   opacity: 0.2;
   letter-spacing: -3px;
-}
+} 
 
 .special-heading + p {
   color: var(--main-color);
